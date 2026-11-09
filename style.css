@@ -9,3 +9,4 @@ html, body {
 .contact-details{display:flex;flex-wrap:wrap;gap:12px 20px;margin-top:15px}
 .contact-details a{font-size:10px;color:#a8b4a6}
 .contact-details a:hover{color:var(--accent)}
+/* Testing automatic deployment */
